@@ -183,7 +183,7 @@ footer {
     float: left;
     width: 50%;
     padding: 10px;
-    padding-top: 3%;
+    padding-top: 10px;
     height: 400px;
     background-color: #c9cbce;
 }
@@ -205,7 +205,7 @@ footer {
 }
 
 .Column_tall {
-    padding-top: 3.5%;
+    padding-top: 10px;
     height: 450px;
 }
 
