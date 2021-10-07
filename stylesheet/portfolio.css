@@ -78,6 +78,7 @@ img{
     height: 100%;
     display: block;
     margin:auto auto auto auto;
+    object-fit: contain;
 }
 
 img:hover{
